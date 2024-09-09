@@ -3,11 +3,12 @@ const ProjectCardData = [
     {
     title:"Real-Time Medical Care Management System",
     text: "A real-time tracking and appointment management system for doctors and patients. Users to track doctor availability in real-time, schedule appointments, and manage patient progress. Technologies Used: Flutter, Django, PostgreSQL",
+    source: "https://github.com/Madushansuriyabandara/Mediconnect.git",
 },
 
 {
     title:"Portfolio",
-    text:"A Portfolio of me.Technologies Used: ReactJS",
+    text:"A website for showcasing my skills and projects and professional journey.Technologies Used: ReactJS",
     source: "https://github.com/ThiliT/MyPortfolio.git",
 },
 
