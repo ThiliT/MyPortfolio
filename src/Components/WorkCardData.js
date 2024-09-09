@@ -20,12 +20,13 @@ const ProjectCardData = [
 {
     title:"Air Line Reservation Application",
     text:"A web application for airline ticket reservations, enabling users to search for flights, book tickets, and manage reservations seamlessly. Technologies Used: ReactjS , NodeJS , MySQL",
-    source: "https://github.com/VeroshaKriyanjala/AirLine-Reservation-Project.git",
+    source: "https://github.com/ThiliT/Airline-Reservation.git",
 },
 
 {
     title:"Nano Processor Design",
     text:"A 4-bit nano processor to do addition, subtraction, left shift, right shift, and negation. Technologies Used:  FPGL",
+    source: "https://github.com/ThiliT/Nano_Processor.git",
 },
 
 
